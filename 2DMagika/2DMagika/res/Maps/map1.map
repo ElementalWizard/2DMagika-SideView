@@ -1,0 +1,10 @@
+12
+5
+0 0 0 0 0 3 0 0 0 0 0 0
+1 1 1 1 1 1 1 1 1 1 1 1
+2 2 2 2 2 2 2 2 2 2 2 2
+2 2 2 2 2 2 2 2 2 2 2 2
+2 2 2 2 2 2 2 2 2 2 2 2
+next line is amount of moving block the one after that is x,y,id,left and right bound
+1
+2 -2 3 1 10
